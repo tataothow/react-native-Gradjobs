@@ -20,3 +20,8 @@ npx create-expo-app -e with-router
 # Note code was done by following youtube video
 
 - https://www.youtube.com/watch?v=mJ3bGvy0WAY
+
+## Get api key 
+
+💻RapidAPI JSearch - https://rapidapi.com/letscrape-6bRBa3...
+
